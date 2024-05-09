@@ -1,4 +1,4 @@
-package com.example.ifoodautenticacao
+package com.example.ifoodautenticacao.view
 
 import android.os.Bundle
 import android.widget.Toast
