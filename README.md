@@ -1,6 +1,6 @@
 # Sistema de Autenticação Android
-## Sistema de Autenticação Android IFOOD
+Sistema de Autenticação Android IFOOD
 
--> Tecnologias: Firebase, Kotlin, XmL
--> IDE: Android Studio
--> Arquitetura: MVVM
+## Tecnologias: Firebase, Kotlin, XmL
+## IDE: Android Studio
+## Arquitetura: MVVM
